@@ -22,7 +22,7 @@ The Service Provider may wish to update the application at some point. The appli
 
 **Return policy**
 
-You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded the App and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases or subscriptions then you need to contact the App Store Provider directly.
+You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded the App and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases or subscriptions then you need to contact the App Store Provider directly. 
 If you wish to request a refund, you may do so by contacting the App Store Provider directly.
 
 **Use of the App**
