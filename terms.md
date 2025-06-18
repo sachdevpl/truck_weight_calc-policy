@@ -20,6 +20,11 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+**Return policy**
+
+You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded the App and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases or subscriptions then you need to contact the App Store Provider directly.
+If you wish to request a refund, you may do so by contacting the App Store Provider directly.
+
 **Use of the App**
 
 License: We grant you a limited, non-exclusive, non-transferable, and revocable license to use the app for personal, non-commercial purposes.
