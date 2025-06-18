@@ -4,7 +4,9 @@ This privacy policy applies to the Truck Weight Calc app (hereby referred to as 
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+Truck Weight Calc is the utility app and does not collect any personal information.
+The app does use third party services like RevenueCat for in-app subscriptions, that may collect purchase information. This data is Not Linked to You.
+The Application may collects information when you download and use it. This information may include information such as
 
 *   Your device's Internet Protocol address (e.g. IP address)
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
