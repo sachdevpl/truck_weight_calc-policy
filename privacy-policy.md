@@ -2,7 +2,7 @@
 
  Introduction 
 
-Welcome to Truck Weight Calc. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Truck Weight Calc app. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
  Information We Collect 
 -  Truck Weight Calc app does not collect any personal information.
