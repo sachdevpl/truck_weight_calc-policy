@@ -58,7 +58,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 **Changes**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page (https://github.com/sachdevpl/truck_weight_calc-policy/edit/main/privacy-policy.md) with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page (https://github.com/sachdevpl/truck_weight_calc-policy/blob/main/privacy-policy.md) with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 This privacy policy is effective as of 2025-06-11
 
