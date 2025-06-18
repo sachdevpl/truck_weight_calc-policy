@@ -22,8 +22,13 @@ The Service Provider may wish to update the application at some point. The appli
 
 **Return policy**
 
+All amounts are payable and charged: (i) for one-off purchase (e.g. lifetime Subscription), at the time you place your order; and (ii) For monthly or yearly subscriptions, at the beginning of the subscription and, because each such subscription renews automatically for an additional period equal in length to the expiring subscription term until you cancel it, at the time of each renewal until you cancel. You must cancel your monthly or yearly Subscription before it renews to avoid the billing of the fees for the next Subscription period.
+
 You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded the App and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases or subscriptions then you need to contact the App Store Provider directly. 
 If you wish to request a refund, you may do so by contacting the App Store Provider directly.
+
+If you are under 18 then you must have your parents' or guardians' permission to make any In-App Purchases. By completing an In-App Purchase, you are confirming to us that you have any and all permission that may be necessary in order to allow you to make that In-App
+Purchase.
 
 **Use of the App**
 
